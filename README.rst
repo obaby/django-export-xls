@@ -83,3 +83,9 @@ Credentians for database::
 
       * user: daiech
       * pass: 1
+
+更新日志：::
+      * 支持1.7版本以上的Django
+
+------
+http://nai.dog  
