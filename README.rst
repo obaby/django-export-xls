@@ -84,8 +84,10 @@ Credentians for database::
       * user: daiech
       * pass: 1
 
-更新日志：::
+更新日志（2022.12.08）：::
       * 支持1.7版本以上的Django
+      * 修复export_xlwt返回值错误
 
 ------
+支持网站：  
 http://nai.dog  
