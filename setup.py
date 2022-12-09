@@ -1,7 +1,7 @@
 import os
 from setuptools import setup
 
-README = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read()
+README = open(os.path.join(os.path.dirname(__file__), 'README.rst'),encoding='utf8').read()
 requires = ["Django>=1.4.1", "xlwt>=0.7.5"] ## open(os.path.join(os.path.dirname(__file__), 'requirements.tx')).read()
 
 # allow setup.py to be run from any path
